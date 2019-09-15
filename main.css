@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC');
+
+#pageone { 
+  background: url(img/citynew.png) no-repeat center center fixed; 
+/*
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+*/
+}
+
+#pagetwo { 
+  background: url(img/bg.jpg) no-repeat center center fixed; 
+}
+
+#pagethree { 
+  background: url(img/bg2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#pagefour {
+  background: url(img/bg3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+    
+}
+
+.subject {
+    text-decoration: none;
+    color: black;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 48;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+.q {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 30;
+}
+
+.center {
+  margin-top: 100px;
+  margin-left:150px;
+  margin-right:150px;
+  background-color: #FFFFFF;
+  border: 1px solid black;
+  opacity: 0.8;
+/*  filter: alpha(opacity=60);*/
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.parking{
+    font-size: 20px;
+    margin-left:300px;
+    margin-right:300px;
+    
+}
+
+.pk{
+  margin-top: 50px;
+  margin-left:150px;
+  margin-right:150px;
+}
+
+.explain{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 30;
+}
+
+li{
+  margin-top: 70px;
+  border: 2px solid white;
+    opacity: 0.8;
+    text-decoration: none;
+    color: white;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 48;
+    text-align: center;
+    line-height: 100px;
+}
+
+.link1{
+    color:darkgoldenrod;
+
+}
+
+.link2{
+    text-decoration: none;
+    color: indianred;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-align: center;
+    line-height: 100px;   
+}
+
+.content{
+        color: black;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+      margin-left:300px;
+  margin-right:300px;
+}
